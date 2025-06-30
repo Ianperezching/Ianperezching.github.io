@@ -1,0 +1,9 @@
+#main-header{
+    background-color: var(--color3);
+    color: var(--color-negro);
+}
+
+#main-header p{
+    margin-bottom: 0;
+}
+
